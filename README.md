@@ -1,5 +1,5 @@
 # 💫 About Me:
-I work as a Digital Twin Simulation Software Engineer. I specialize in creating digital replicas of real-world systems, which can include various levels of details such as physics, intelligent algorithms, and software integrations. Currently, I am involved in several European projects related to mechanical engineering, manufacturing, semiconductors, robotics, simulations, and construction. When I am not working, I like to indulge in my passion for virtual gaming.
+I am a Full Stack Digital Twin Software Engineer with experience in creating the digital reference of real-world systems. I can create digital systems that include multiple levels of details like physics, intelligent algorithms and software integrations. Currently, I am working on multiple Europen projects in the fields of mechanical, manufacturing, semiconductors, robotics, simulations and construction. Apart from being a software developer and engineer, I love to play virtual games and explore my passion for being a gamer in my free time.
 
 
 ## 🌐 Socials:
